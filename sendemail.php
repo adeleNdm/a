@@ -14,7 +14,7 @@ $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
-$to = 'adele.nademi@gmial.com';
+$to = 'adele.nademi@gmail.com';
 $subject = 'the subject';
 $headers = 'From: youremail@domain.com' . "\r\n";
 
